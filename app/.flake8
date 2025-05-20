@@ -1,0 +1,6 @@
+[flake8]
+excude = 
+    migrations,
+    __pycahe__,
+    manage.py,
+    settings.py
