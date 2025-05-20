@@ -1,0 +1,59 @@
+
+*** These modified files were found in JOE when it aborted on Tue May 20 15:45:13 2025
+*** JOE was aborted because the terminal closed
+
+*** File '/home/tsolakidis/Desktop/tech_interview_tests/udemy_django/recipe-app-api/.git/COMMIT_EDITMSG'
+Configure docker compose and checks to wait for db
+# Please enter the commit message for your changesx
+SAD
+ 
+asD 
+a
+sd 
+
+as 
+D
+ as. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   .github/workflows/checks.yml
+#	modified:   Dockerfile
+#	modified:   app/app/__init__.py
+#	modified:   app/app/asgi.py
+#	new file:   app/app/calc.py
+#	modified:   app/app/settings.py
+#	new file:   app/app/tests.py
+#	modified:   app/app/urls.py
+#	modified:   app/app/wsgi.py
+#	new file:   app/core/__init__.py
+#	new file:   app/core/admin.py
+#	new file:   app/core/apps.py
+#	new file:   app/core/management/__init__.py
+#	new file:   app/core/management/commands/__init__.py
+#	new file:   app/core/management/commands/wait_for_db.py
+#	new file:   app/core/migrations/__init__.py
+#	new file:   app/core/models.py
+#	new file:   app/core/tests/__init__.py
+#	new file:   app/core/tests/test_commands.py
+#	modified:   docker-compose.yml
+#	modified:   requirements.txt
+#
+
+*** File '(Unnamed)'
+:wq
+
+*** File '(Unnamed)'
+/home/tsolakidis/Desktop/gitlab_folder/dev-hr-integration-ros/.git/MERGE_MSG
+/home/tsolakidis/Desktop/vcl_git/HR-Recycler/.git/COMMIT_EDITMSG
+/home/tsolakidis/.gitconfig
+/home/tsolakidis/Desktop/tech_interview_tests/udemy_django/recipe-app-api/.git/COMMIT_EDITMSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
